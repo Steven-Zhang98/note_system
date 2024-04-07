@@ -1,9 +1,19 @@
 ```python
 class Notes:
-	def find():
+	def __init__(self, []):
+		self.list_of_notes = 
+		
+	def find(key_word):
+		key = key_word
+		result = 
+		for note in self.list_of_notes:
+			if key in note.title
+				result.append(note)
+		return result 
 
 class Note:
     def __init__(self, content):
+	    note.title
         self.content = content  # Contents of notes
         self.in_category = []   # Belongs to which category
         self.up = []            # From which note
@@ -41,8 +51,10 @@ note1.add_opposite(note3)  # note1 as opposed to note3
 
 ## Question:
 
-如何建立文件夹：
-
 搜索和查询能力：如何设计一个功能，能够根据所有笔记内容查找笔记名字
 
 持久化存储：如何长期储存
+
+如何建立文件夹用代码怎么表示？
+
+## To-do list:
