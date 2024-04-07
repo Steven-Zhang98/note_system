@@ -5,4 +5,4 @@ in pointer means which category this note belongs to,
 up pointer means which note this note comes from, 
 down means which note this note affects, 
 similar pointer means which note this note is similar to, 
-and opposite means which note this note is opposite to. With these five categories of pointers, we can realize the categorisation of notes, as well as build complex knowledge networks
+and opposite means which note this note is opposite to. With these five categories of pointers, we can realise the categorisation of notes, as well as build complex knowledge networks
