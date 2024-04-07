@@ -51,6 +51,8 @@ note1.add_opposite(note3)  # note1 as opposed to note3
 
 ## Question:
 
+simple first: 
+
 搜索和查询能力：如何设计一个功能，能够根据所有笔记内容查找笔记名字
 
 持久化存储：如何长期储存
